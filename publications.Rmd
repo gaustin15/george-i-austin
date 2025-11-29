@@ -15,7 +15,7 @@ body {
 <div class="main-content">
 
 # Publications
-
+1. **G. I. Austin**, I. Pe’er, and T. Korem, ‘Distributional bias compromises leave-one-out cross-validation’, *Science Advances*, 2025.
 1.  **G. I. Austin** and T. Korem, ‘Compositional transformations can reasonably introduce phenotype-associated values into sparse features’, *mSystems*, 2025.
 1. **G. I. Austin**, A. Brown Kav, H. Park, J. Biermann, A.-C. Uhlemann, and T. Korem, ‘Processing-bias correction with DEBIAS-M improves cross-study generalization of microbiome-based prediction models’, *Nature Microbiology*, 2025.
 1. A. Batuure, **G. I. Austin**, W.A. Grobman et al., ‘A Simple Data-Driven Dietary Pattern Associated with Lower Risk for Adverse Pregnancy Outcomes’. *American Journal of Obstetrics & Gynecology*, 2025.
@@ -31,8 +31,8 @@ body {
 ---
 
 ## Preprints
-10. W. F. Kindschuh\*, **G. I. Austin**\*, Y. Meydan, et al., ‘Early prediction of preeclampsia using the first trimester vaginal microbiome’, *bioRxiv*, 2024.
-10. **G. I. Austin**, I. Pe’er, and T. Korem, ‘Distributional bias compromises leave-one-out cross-validation’, *arXiv*, 2024.
+11. W. F. Kindschuh\*, **G. I. Austin**\*, Y. Meydan, et al., ‘Early prediction of preeclampsia using the first trimester vaginal microbiome’, *bioRxiv*, 2024.
+
 
 \* Equal contribution
  
